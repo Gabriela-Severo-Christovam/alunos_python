@@ -1,0 +1,7 @@
+A função deve receber a média e retornar se o aluno foi aprovado de acordo com a lista abaixo:
+
+0,5 - Reprovado 
+
+5,7 - Recuperação 
+
+7,10 - Aprovado
